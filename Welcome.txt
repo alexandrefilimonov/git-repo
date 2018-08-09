@@ -1,2 +1,2 @@
 Print Welcome!
-Print What's up?
+Print How do you do?
